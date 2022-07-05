@@ -10,7 +10,8 @@ GHECはGitHubをエンタープライズレベルで利用するための機能�
 - 無制限のパブリック/プライベートリポジトリ
 - 無制限のコラボレータ
 - GitHub Actions 50,000分/月
-- GitHub Packagesストレージ 50GB
+- GitHub Packagesストレージ 総計50GB
+- コミュニティボードによるサポート
 - 必須レビューワー
 - コードオーナー
 - SAMLシングル・サインオン
@@ -30,8 +31,12 @@ GHECライセンスはGitHub内のEnterpriseに紐づく全てのGitHubアカウ
 flowchart LR
     id3(View) -- User actions --> id2 -- Update UI --> id3(View)
     
+## アカウントのセットアップ
+- organizationアカウントのセットアップ
+    1. GitHubページ右上にあるプロフィール写真をクリックし、Settingsをクリック
+    1. サイドバーのAccessセクションにあるOrganizationsをクリック
+    1. OrganizationsセクションにあるNew organizationボタンをクリック
+    1. Enterpriseプランを選択
+    1. プロンプトにしたがいorganizationアカウントを作成
 
-
-
-GitHub.comアカウント
 
