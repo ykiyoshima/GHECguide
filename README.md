@@ -33,10 +33,10 @@ flowchart LR
     
 ## アカウントのセットアップ
 organizationアカウントのセットアップ
-    1. GitHubページ右上にあるプロフィール写真をクリックし、Settingsをクリック
-    1. サイドバーのAccessセクションにあるOrganizationsをクリック
-    1. OrganizationsセクションにあるNew organizationボタンをクリック
-    1. Enterpriseプランを選択
-    1. プロンプトにしたがいorganizationアカウントを作成
+1. GitHubページ右上にあるプロフィール写真をクリックし、Settingsをクリック
+1. サイドバーのAccessセクションにあるOrganizationsをクリック
+1. OrganizationsセクションにあるNew organizationボタンをクリック
+1. Enterpriseプランを選択
+1. プロンプトにしたがいorganizationアカウントを作成
 
 
