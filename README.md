@@ -32,7 +32,7 @@ flowchart LR
     id3(View) -- User actions --> id2 -- Update UI --> id3(View)
     
 ## アカウントのセットアップ
-- organizationアカウントのセットアップ
+organizationアカウントのセットアップ
     1. GitHubページ右上にあるプロフィール写真をクリックし、Settingsをクリック
     1. サイドバーのAccessセクションにあるOrganizationsをクリック
     1. OrganizationsセクションにあるNew organizationボタンをクリック
