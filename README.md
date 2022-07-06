@@ -39,4 +39,4 @@ organizationアカウントのセットアップ
 1. Enterpriseプランを選択
 1. プロンプトにしたがいorganizationアカウントを作成
 
-
+Issueリンクテスト
