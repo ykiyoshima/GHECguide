@@ -1,3 +1,5 @@
+[前：GHEC Starter Guide](/GHEC_STARTER_GUIDE.md)　　　[次：メンバーとチームの管理](/MEMBER_AND_TEAM.md)
+<br><br>
 # アカウントのセットアップ
 OrganizationアカウントまたはEnterpriseアカウントのいずれかをセットアップします。<br><br>
 **Organizationアカウント**  
@@ -10,16 +12,16 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 <br><br>
 
 ## 【Organizationアカウントのセットアップ】
-1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック
+1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック  
     ![Settingsの場所](/image/account1.png)
 
-1. サイドバーのAccessセクションにあるOrganizationsをクリック
+1. サイドバーのAccessセクションにあるOrganizationsをクリック  
     ![Organizationの場所](/image/account2.png)
 
-1. OrganizationsセクションにあるNew organizationボタンをクリック
+1. OrganizationsセクションにあるNew organizationボタンをクリック  
     ![New_organizationボタンの場所](/image/account3.png)
 
-1. Enterpriseプランを選択
+1. Enterpriseプランを選択  
     ![プラン比較ページ](/image/account4.png)
 
 1. プロンプトにしたがってorganizationアカウントを作成
@@ -28,19 +30,21 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック
     ![Settingsの場所](/image/account1.png)
 
-1. サイドバーのAccessセクションにあるOrganizationsをクリック
+1. サイドバーのAccessセクションにあるOrganizationsをクリック  
     ![Organizationの場所](/image/account2.png)
 
-1. 任意のOrganizationアカウント右隣のSettingsをクリック
+1. 任意のOrganizationアカウント右隣のSettingsをクリック  
     ![Organization_Settingsの場所](/image/account5.png)
 
-1. サイドバーのAccessセクションにあるBilling and plansをクリック
+1. サイドバーのAccessセクションにあるBilling and plansをクリック  
     ![Organizationの場所](/image/account6.png)
 
-1. 緑色のUpgrade to enterprise accountボタンをクリック
+1. 緑色のUpgrade to enterprise accountボタンをクリック  
     ![Upgradeの場所](/image/account7.png)
 
-1. Enterpriseプランを選択
+1. Enterpriseプランを選択  
     ![プラン比較ページ](/image/account8.png)
 
 1. プロンプトにしたがってEnterpriseアカウントを作成
+
+[次：メンバーおよびチームの管理](/MEMBER_AND_TEAM.md)
