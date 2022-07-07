@@ -30,73 +30,8 @@ GHECライセンスはGitHub内のEnterpriseに紐づく全てのGitHubアカウ
 
 flowchart LR
     id3(View) -- User actions --> id2 -- Update UI --> id3(View)
-    
-## アカウントのセットアップ
-OrganizationアカウントまたはEnterpriseアカウントのいずれかをセットアップします。<br><br>
-**Organizationアカウント**  
-複数人が様々なプロジェクトで共同作業を行うための共有アカウント  
-オーナーと管理者は、データやプロジェクトへのアクセスを管理可能
-<br><br>
-**Enterpriseアカウント**  
-複数のOrganizationアカウントを管理するためのアカウント  
-オーナーは各Organizationアカウントのポリシー・課金・セキュリティを一元管理可能
-<br><br>
 
-### 【Organizationアカウントのセットアップ】
-1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック
-    ![Settingsの場所](/image/account1.png)
+## 目次
+- [アカウントのセットアップ](/ACCOUNT.md)
+- [メンバーおよびチームの管理](/MEMBER_AND_TEAM.md)
 
-1. サイドバーのAccessセクションにあるOrganizationsをクリック
-    ![Organizationの場所](/image/account2.png)
-
-1. OrganizationsセクションにあるNew organizationボタンをクリック
-    ![New_organizationボタンの場所](/image/account3.png)
-
-1. Enterpriseプランを選択
-    ![プラン比較ページ](/image/account4.png)
-
-1. プロンプトにしたがってorganizationアカウントを作成
-
-### 【Enterpriseアカウントのセットアップ】
-1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック
-    ![Settingsの場所](/image/account1.png)
-
-1. サイドバーのAccessセクションにあるOrganizationsをクリック
-    ![Organizationの場所](/image/account2.png)
-
-1. 任意のOrganizationアカウント右隣のSettingsをクリック
-    ![Organization_Settingsの場所](/image/account5.png)
-
-1. サイドバーのAccessセクションにあるBilling and plansをクリック
-    ![Organizationの場所](/image/account6.png)
-
-1. 緑色のUpgrade to enterprise accountボタンをクリック
-    ![Upgradeの場所](/image/account7.png)
-
-1. Enterpriseプランを選択
-    ![プラン比較ページ](/image/account8.png)
-
-1. プロンプトにしたがってEnterpriseアカウントを作成
-
-## GHECでのメンバーおよびチームの管理
-
-### Organizationアカウントでのメンバーおよびチームの管理
-Organizationアカウントにおける権限やメンバーのロール、チームの作成と管理、リポジトリへのアクセス権の付与が可能
-
-1. GitHubページ右上にあるプロフィール写真をクリック → Your organizationsをクリック
-    ![Your_organizationsの場所](/image/memberteams1.png)
-
-1. 任意のOrganizationアカウント名のリンクをクリック
-    ![Organizationアカウント名の場所](/image/memberteams2.png)
-
-1. Organizationアカウント名の下にあるPeopleタグをクリック
-    ![Peopleタグの場所](/image/memberteams3.png)
-
-1. 緑色のInvite memberボタンをクリック
-    ![Invite_memberボタンの場所](/image/memberteams4.png)
-
-1. 招待したいメンバーのユーザーネーム or フルネーム or メールアドレスを入力 → 緑色のInviteボタンをクリック
-    ![Inviteボタンの場所](/image/memberteams5.png)
-
-1. 招待したいメンバーのロールを選択
-    ![ロール選択ページ]()
