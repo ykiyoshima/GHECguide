@@ -1,5 +1,5 @@
 [前：GHEC Starter Guide](/GHEC_STARTER_GUIDE.md)　　　[次：メンバーとチームの管理](/MEMBER_AND_TEAM.md)
-<br><br>
+
 # アカウントのセットアップ
 OrganizationアカウントまたはEnterpriseアカウントのいずれかをセットアップします。<br><br>
 **Organizationアカウント**  
@@ -13,7 +13,7 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 
 ## 【Organizationアカウントのセットアップ】
 1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック  
-    ![Settingsの場所](/image/account1.png)
+    ![Settingsの場所](/image/from_icon_to_settings_220207.png)
 
 1. サイドバーのAccessセクションにあるOrganizationsをクリック  
     ![Organizationの場所](/image/account2.png)
@@ -27,8 +27,8 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 1. プロンプトにしたがってorganizationアカウントを作成
 <br><br>
 ## 【Enterpriseアカウントのセットアップ】
-1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック
-    ![Settingsの場所](/image/account1.png)
+1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック  
+    ![Settingsの場所](/image/from_icon_to_settings_220207.png)
 
 1. サイドバーのAccessセクションにあるOrganizationsをクリック  
     ![Organizationの場所](/image/account2.png)
