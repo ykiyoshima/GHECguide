@@ -1,4 +1,4 @@
-[前：Gitのセットアップ](/GIT_SETUP.md)　　　[次：リモートリポジトリの作成](/REPOSITORY.md)
+[前：Gitのセットアップ](/GIT_SETUP.md)　　　[次：リポジトリの操作](/REPOSITORY.md)
 
 # GitHubのセットアップ
 
@@ -41,4 +41,4 @@ Gitで管理しているソースコードのバージョンをブラウザ上�
 
 1. GitHubアカウントの作成が完了
 
-[前：Gitのセットアップ](/GIT_SETUP.md)　　　[次：リモートリポジトリの作成](/REPOSITORY.md)
+[前：Gitのセットアップ](/GIT_SETUP.md)　　　[次：リポジトリの操作](/REPOSITORY.md)
