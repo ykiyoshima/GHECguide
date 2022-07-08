@@ -15,16 +15,16 @@ Gitで管理しているソースコードのバージョンをブラウザ上�
 1. メールアドレスが記入されているのを確認 → 緑色のContinueボタンをクリック  
     ![登録情報入力ページ_メールアドレス](/image/welcome_to_github_email_220708.png)
 
-1. メールアドレスが記入されているのを確認 → 緑色のContinueボタンをクリック  
+1. 設定したい任意のパスワードを入力 → 緑色のContinueボタンをクリック  
     ![登録情報入力ページ_パスワード](/image/welcome_to_github_password_220708.png)
 
-1. ユーザー名が記入されているのを確認 → 緑色のContinueボタンをクリック  
+1. 設定したい任意のユーザー名を入力 → 緑色のContinueボタンをクリック  
     ![登録情報入力ページ_ユーザー名](/image/welcome_to_github_username_220708.png)
 
 1. 「n」を入力 → 緑色のContinueボタンをクリック  
     ![登録情報入力ページ_y_or_n](/image/welcome_to_github_n_220708.png)
 
-1. 「n」を入力 → 緑色のContinueボタンをクリック  
+1. Start puzzleボタンをクリック  
     ![登録情報入力ページ_start_puzzle](/image/welcome_to_github_start_puzzle_220708.png)
 
 1. 渦巻き状の銀河の画像を2回連続で選択（該当画像の種類や表示位置は毎回異なる）
