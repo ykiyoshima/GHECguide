@@ -1,5 +1,4 @@
-[次：GHEC Starter Guide](/GHEC_STARTER_GUIDE.md)
-<br><br>
+[次：Gitのセットアップ](/GIT_SETUP.md)
 
 # GitHub Enterprise Cloud Starter Guide
 本資料はGitHub Enterprise Cloud（以下、GHEC）の概要および導入の手引きを記載したものです。
@@ -33,5 +32,5 @@ GHECライセンスはGitHub内のEnterpriseに紐づく全てのGitHubアカウ
 
 flowchart LR
     id3(View) -- User actions --> id2 -- Update UI --> id3(View)
-<br><br>
-[次：アカウントのセットアップ](/ACCOUNT.md)
+
+[次：Gitのセットアップ](/GIT_SETUP.md)

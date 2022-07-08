@@ -1,4 +1,4 @@
-[前：GitHubのセットアップ](/GITHUB_SETUP.md)　　　[次：リモートリポジトリの作成](/REPOSITORY.md)
+[前：GitHubのセットアップ](/GITHUB_SETUP.md)　　　[次：OrganizationアカウントまたはEnterpriseアカウントのセットアップ](/ACCOUNT.md)
 
 # リポジトリの操作
 
@@ -60,4 +60,4 @@
 
 1. リモートリポジトリへのプッシュが完了
 
-[前：GitHubのセットアップ](/GITHUB_SETUP.md)　　　[次：リモートリポジトリの作成](/REPOSITORY.md)
+[前：GitHubのセットアップ](/GITHUB_SETUP.md)　　　[次：OrganizationアカウントまたはEnterpriseアカウントのセットアップ](/ACCOUNT.md)

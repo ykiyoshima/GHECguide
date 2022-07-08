@@ -1,4 +1,4 @@
-[前：メンバーとチームの管理](/MEMBER_AND_TEAM.md)　　　[次：README](/README.md)
+[前：GHEC Starter Guide](/GHEC_STARTER_GUIDE.md)　　　[次：GitHubのセットアップ](/GITHUB_SETUP.md)
 
 # Gitのセットアップ
 
@@ -41,4 +41,4 @@ Gitをコンピューターにダウンロード・インストール・設定�
 1. 以下のコマンドを入力してGitメールアドレスが正しく設定されていることを確認する  
 `$ git config --global user.email`
 
-[前：メンバーとチームの管理](/MEMBER_AND_TEAM.md)　　　[次：GitHubのセットアップ](/GITHUB_SETUP.md)
+[前：GHEC Starter Guide](/GHEC_STARTER_GUIDE.md)　　　[次：GitHubのセットアップ](/GITHUB_SETUP.md)

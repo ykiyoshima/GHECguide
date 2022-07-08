@@ -1,4 +1,4 @@
-[前：GHEC Starter Guide](/GHEC_STARTER_GUIDE.md)　　　[次：メンバーとチームの管理](/MEMBER_AND_TEAM.md)
+[前：リポジトリの操作](/REPOSITORY.md)　　　[次：メンバーとチームの管理](/MEMBER_AND_TEAM.md)
 
 # アカウントのセットアップ
 OrganizationアカウントまたはEnterpriseアカウントのいずれかをセットアップします。<br><br>
@@ -47,4 +47,4 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 
 1. プロンプトにしたがってEnterpriseアカウントを作成
 
-[次：メンバーおよびチームの管理](/MEMBER_AND_TEAM.md)
+[前：リポジトリの操作](/REPOSITORY.md)　　　[次：メンバーとチームの管理](/MEMBER_AND_TEAM.md)

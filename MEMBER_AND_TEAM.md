@@ -1,4 +1,4 @@
-[前：アカウントのセットアップ](/ACCOUNT.md)　　　[次：Gitのセットアップ](/GIT.md)
+[前：OrganizationアカウントまたはEnterpriseアカウントのセットアップ](/ACCOUNT.md)　　　[次：Gitのセットアップ](/GIT.md)
 
 # メンバーおよびチームの管理
 
@@ -73,4 +73,4 @@ Organizationアカウントにおける権限やメンバーのロール、チ�
 Enterpriseアカウント内のメンバーの管理は、Organizationアカウント内のメンバーやチームの管理とは異なります。  
 例えば、Enterpriseアカウントのオーナーまたは管理者であっても、OrganizationアカウントのオーナーでなければOrganizationレベルの設定へのアクセスやEnterpriseアカウント内のOrganizationメンバーの管理はできない点に注意が必要です。  
 
-[前：アカウントのセットアップ](/ACCOUNT.md)　　　[次：Gitのセットアップ](/GIT.md)
+[前：OrganizationアカウントまたはEnterpriseアカウントのセットアップ](/ACCOUNT.md)　　　[次：Gitのセットアップ](/GIT.md)
