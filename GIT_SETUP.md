@@ -12,30 +12,68 @@ Gitを使うことで以下のようなことが可能となります。
 Gitをコンピューターにダウンロード・インストール・設定することで、コマンドラインでGitを使うことができます。
 
 ## Gitのセットアップ
+
+### Windowsの場合
 1. [https://git-scm.com/downloads](https://git-scm.com/downloads) にアクセスする  
 
 1. Download for 〇〇ボタンをクリック  
-    ![Gitダウンロードボタンの場所](/image/git_download_page_220707.png)
+    ![Gitダウンロードボタンの場所](/image/git_setup/git_download_page_220707.png)
 
 1. Click here to download をクリック → Gitの.exeファイルダウンロードがスタート  
-    ![Click here to downloadリンクの場所](/image/git_download_link_220207.png)
+    ![Click here to downloadリンクの場所](/image/git_setup/git_download_link_220207.png)
 
 1. ダウンロードした.exeファイルを開く  
 
 1. すべてNextボタンをクリック → Installボタンが表示されたらInstallボタンをクリック
 
 1. View Release Notesのチェックを外す → Finishボタンをクリック  
-    ![Gitインストール完了ウィザード](/image/complete_git_install_220207.png)
+    ![Gitインストール完了ウィザード](/image/git_setup/complete_git_install_220207.png)
 
 1. コンピューターを再起動する  
 
-1. Windowsの場合はGit Bash、Macの場合はターミナルにて（以下Gitコマンドは同じツールから行う）以下のコマンドを入力する  
+1. Git Bashを起動し、以下のコマンドを入力する  
 `$ git config --global user.name "設定したいユーザー名"`
 
 1. 以下のコマンドを入力してGitユーザー名が正しく設定されていることを確認する  
 `$ git config --global user.name`
 
 1. 以下のコマンドを入力する  
+`$ git config --global user.email "設定したいメールアドレス"`
+
+1. 以下のコマンドを入力してGitメールアドレスが正しく設定されていることを確認する  
+`$ git config --global user.email`
+
+### Macの場合
+1. ターミナルにて以下のコマンドを入力する  
+`$ brew -v`
+
+1. `command not found: brew` と出力された場合は [https://brew.sh/index_ja](https://brew.sh/index_ja) にアクセスする（`Homebrew x.x.x` と出力された場合は8. まで飛ばす）
+
+1. コマンド右隣のコピーアイコンをクリック  
+    ![コマンドのコピーアイコンの場所](/image/git_setup/homebrew_220708.png)
+
+1. ターミナルを開き、コピーしたコマンドを貼り付けてEnter  
+
+1. `password:`と表示されたら、コンピューターにログインする際のパスワードを入力してEnter  
+
+1. Enterを何回か押してインストールを実行（`Installation successful!` のような表示があればOK）  
+
+1. 以下のコマンドを入力し、Homebrewがインストールされたことを確認  
+`$ brew -v`
+
+1. 以下のコマンドを入力する  
+`$ brew install git`
+
+1. 以下のコマンドを入力し、Gitがインストールされたことを確認  
+`$ git version`
+
+1. 以下のコマンドを入力する（何も出力されなければOK）  
+`$ git config --global user.name "設定したいユーザー名"`
+
+1. 以下のコマンドを入力してGitユーザー名が正しく設定されていることを確認する  
+`$ git config --global user.name`
+
+1. 以下のコマンドを入力する（何も出力されなければOK）  
 `$ git config --global user.email "設定したいメールアドレス"`
 
 1. 以下のコマンドを入力してGitメールアドレスが正しく設定されていることを確認する  
