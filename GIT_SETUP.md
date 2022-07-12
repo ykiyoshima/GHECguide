@@ -16,7 +16,7 @@ Gitをコンピューターにダウンロード・インストール・設定�
 ### Windowsの場合
 1. [https://git-scm.com/downloads](https://git-scm.com/downloads) にアクセスする  
 
-1. Download for 〇〇ボタンをクリック  
+1. Download for Windowsボタンをクリック  
     ![Gitダウンロードボタンの場所](/image/git_setup/git_download_page_220707.png)
 
 1. Click here to download をクリック → Gitの.exeファイルダウンロードがスタート  
@@ -47,7 +47,7 @@ Gitをコンピューターにダウンロード・インストール・設定�
 1. ターミナルにて以下のコマンドを入力する  
 `$ brew -v`
 
-1. `command not found: brew` と出力された場合は [https://brew.sh/index_ja](https://brew.sh/index_ja) にアクセスする（`Homebrew x.x.x` と出力された場合は8. まで飛ばす）
+1. `command not found: brew` と出力された場合は [https://brew.sh/index_ja](https://brew.sh/index_ja) にアクセスする（`Homebrew x.x.x` と出力された場合は2. ~ 7. をスキップする）
 
 1. コマンド右隣のコピーアイコンをクリック  
     ![コマンドのコピーアイコンの場所](/image/git_setup/homebrew_220708.png)
