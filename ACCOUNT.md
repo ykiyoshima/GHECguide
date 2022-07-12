@@ -17,7 +17,7 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 ## 【Organizationアカウントのセットアップ】
 
 1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック  
-    ![Settingsの場所](/image/account/from_icon_to_settings_220207.png)
+    ![Settingsの場所](/image/account/settings_220712.png)
 
 1. サイドバーのAccessセクションにあるOrganizationsをクリック  
     ![Organizationの場所](/image/account/organizations_220711.png)
@@ -33,7 +33,7 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
 ## 【Enterpriseアカウントのセットアップ】
 
 1. GitHubページ右上にあるプロフィール写真をクリック → Settingsをクリック  
-    ![Settingsの場所](/image/account/from_icon_to_settings_220207.png)
+    ![Settingsの場所](/image/account/settings_220712.png)
 
 1. サイドバーのAccessセクションにあるOrganizationsをクリック  
     ![Organizationの場所](/image/account/organizations_220711.png)
