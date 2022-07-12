@@ -1,6 +1,6 @@
 [前：リポジトリの操作](/REPOSITORY.md)　　　[次：メンバーとチームの管理](/MEMBER_AND_TEAM.md)
 
-# アカウントのセットアップ
+# OrganizationアカウントまたはEnterpriseアカウントのセットアップ
 
 OrganizationアカウントまたはEnterpriseアカウントのいずれかをセットアップします。<br><br>
 
@@ -26,7 +26,7 @@ OrganizationアカウントまたはEnterpriseアカウントのいずれかを�
     ![New_organizationボタンの場所](/image/account/new_organization_220711.png)
 
 1. Enterpriseプランを選択  
-    ![プラン比較ページ](/image/account/enterprise_plan_220711.png)
+    ![プラン比較ページ](/image/account/organization_enterprise_plan_220711.png)
 
 1. プロンプトにしたがってorganizationアカウントを作成
 
