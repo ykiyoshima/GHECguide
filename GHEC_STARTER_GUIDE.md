@@ -1,5 +1,3 @@
-[次：Gitのセットアップ](/GIT_SETUP.md)
-
 # GitHub Enterprise Cloud Starter Guide
 本資料はGitHub Enterprise Cloud（以下、GHEC）の概要および導入の手引きを記載したものです。
 本資料はGHECのアップデートによって適宜修正されます。
@@ -21,16 +19,9 @@ GHECはGitHubをエンタープライズレベルで利用するための機能�
 
 [GitHub Enterprise 公式サイト](https://github.co.jp/enterprise.html)
 
-## ライセンス形態
-GHECのライセンスは通常GitHubアカウントに付与されます。
-- GHECライセンスは1つのGitHubアカウントに1つ付与することができます。
-- GHECライセンスを付与したGitHubアカウントを弊社から払い出しません。
-- GHECライセンスはEnterprise管理者からGitHubアカウントに付与することが可能です。
+## ライセンス形態  
+  
+GHECライセンスは1つのGitHubアカウントに1つ付与することができます。    
+言い換えれば、消費されるGHECライセンスの総数はそのGHECに入っているメンバーの人数と等しくなります。  
 
-### GHECライセンスのカウント
-GHECライセンスはGitHub内のEnterpriseに紐づく全てのGitHubアカウントに付与します。
-
-flowchart LR
-    id3(View) -- User actions --> id2 -- Update UI --> id3(View)
-
-[次：Gitのセットアップ](/GIT_SETUP.md)
+例えば、あるメンバーがGHEC内の複数の組織に所属していたとしても、GHECライセンスが重複することはありません。

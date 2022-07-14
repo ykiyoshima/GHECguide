@@ -1,8 +1,8 @@
 # 目次
-- [GitHub Enterprise Cloud Starter Guide](/GHEC_STARTER_GUIDE.md)
-- [Gitのセットアップ](/GIT_SETUP.md)
-- [GitHubのセットアップ](/GITHUB_SETUP.md)
-- [リポジトリの操作](/REPOSITORY.md)
-- [チーム開発におけるリポジトリの操作](/TEAM_REPOSITORY.md)
-- [OrganizationアカウントまたはEnterpriseアカウントのセットアップ](/ACCOUNT.md)
-- [メンバーおよびチームの管理](/MEMBER_AND_TEAM.md)
+- [GitHub Enterprise Cloud (GHEC) スターターガイド](/GHEC_STARTER_GUIDE.md)
+
+- [GHECでの組織・企業メンバーおよびチームの管理](/MANAGING_MEMBERS_AND_TEAMS.md)
+
+- [GHECでのセキュリティ管理](/MANAGING_SECURITY.md)
+
+- [OrganizationおよびEnterpriseレベルのポリシーや設定の管理](/MANAGING_POLICIES_AND_SETTINGS.md)
