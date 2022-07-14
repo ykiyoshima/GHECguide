@@ -1,4 +1,4 @@
-# GHECでの組織・企業メンバーおよびチームの管理
+# GHECでのOrganization・Enterpriseメンバーおよびチームの管理
 
 ## Organizationアカウントのメンバーおよびチームの管理
 
