@@ -1,3 +1,5 @@
+[前：OrganizationおよびEnterpriseレベルのポリシーや設定の管理](/MANAGING_POLICIES_AND_SETTINGS.md)
+
 # OrganizationおよびEnterpriseレベルのポリシーや設定の管理
 
 ## 単一Organizationアカウントに対する設定の管理
@@ -33,3 +35,5 @@ Enterpriseアカウントを管理・調整するために、Enterpriseアカウ
     また、Webhooksを設定することで、Enterpriseアカウントが所有する組織からのイベントを受信することも可能です。  
 
     このほか、Enterpriseアカウントのメール通知を制限して、Enterpriseメンバーが検証済みまたは承認済みのドメインのメールアドレスのみを使用して通知を受け取れるようにすることもできます。
+
+[前：OrganizationおよびEnterpriseレベルのポリシーや設定の管理](/MANAGING_POLICIES_AND_SETTINGS.md)

@@ -1,3 +1,5 @@
+[前：GHECでのセキュリティ管理](/MANAGING_SECURITY.md)　　　[次：OrganizationおよびEnterpriseレベルのポリシーや設定の管理](/MANAGING_POLICIES_AND_SETTINGS.md)
+
 # GHECでのセキュリティ管理
 
 ## 単一Organizationアカウントのセキュリティ管理
@@ -62,3 +64,5 @@ Enterpriseアカウントのセキュリティを管理するため、二段階�
 
 1. Enterpriseアカウントで Advanced Security 機能のポリシーを適用する  
     EnterpriseアカウントにGitHub Advanced Securityのライセンスがある場合、Enterpriseアカウントが所有する組織に対してGitHub Advanced Security機能を管理するためのポリシーを適用することができます。
+
+[前：GHECでのセキュリティ管理](/MANAGING_SECURITY.md)　　　[次：OrganizationおよびEnterpriseレベルのポリシーや設定の管理](/MANAGING_POLICIES_AND_SETTINGS.md)

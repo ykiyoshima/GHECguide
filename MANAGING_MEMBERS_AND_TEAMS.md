@@ -1,3 +1,5 @@
+[前：GitHub Enterprise Cloud (GHEC) スターターガイド](/GHEC_STARTER_GUIDE.md)　　　[次：GHECでのセキュリティ管理](/MANAGING_SECURITY.md)
+
 # GHECでのOrganization・Enterpriseメンバーおよびチームの管理
 
 ## Organizationアカウントのメンバーおよびチームの管理
@@ -51,3 +53,5 @@ Enterpriseアカウントのオーナーもしくは管理者は、Organization�
 1. Enterpriseアカウント内のメンバーの確認
     Enterpriseアカウントが所有するリソースへのアクセスやユーザーラーセンスの使用状況を監査するために、Enterpriseアカウント内のすべてのEnterprise管理者、Enterpriseメンバー、外部の共同作業者を確認することができます。  
     メンバーが所属する組織や、外部の共同作業者がアクセス可能な特定のリポジトリも確認できます。
+
+[前：GitHub Enterprise Cloud (GHEC) スターターガイド](/GHEC_STARTER_GUIDE.md)　　　[次：GHECでのセキュリティ管理](/MANAGING_SECURITY.md)

@@ -1,3 +1,5 @@
+[次：GHECでのOrganization・Enterpriseメンバーおよびチームの管理](/MANAGING_MEMBERS_AND_TEAMS.md)
+
 # GitHub Enterprise Cloud Starter Guide
 本資料はGitHub Enterprise Cloud（以下、GHEC）の概要および導入の手引きを記載したものです。
 本資料はGHECのアップデートによって適宜修正されます。
@@ -25,3 +27,5 @@ GHECライセンスは1つのGitHubアカウントに1つ付与することが�
 言い換えれば、消費されるGHECライセンスの総数はそのGHECに入っているメンバーの人数と等しくなります。  
 
 例えば、あるメンバーがGHEC内の複数の組織に所属していたとしても、GHECライセンスが重複することはありません。
+
+[次：GHECでのOrganization・Enterpriseメンバーおよびチームの管理](/MANAGING_MEMBERS_AND_TEAMS.md)
